@@ -1,0 +1,13 @@
+D:\Documents\EF\Labs\LabTwo\LabTwo\bin\Debug\LabTwo.exe.config
+D:\Documents\EF\Labs\LabTwo\LabTwo\bin\Debug\LabTwo.exe
+D:\Documents\EF\Labs\LabTwo\LabTwo\bin\Debug\LabTwo.pdb
+D:\Documents\EF\Labs\LabTwo\LabTwo\obj\Debug\LabTwo.csproj.AssemblyReference.cache
+D:\Documents\EF\Labs\LabTwo\LabTwo\obj\Debug\LabTwo.csproj.SuggestedBindingRedirects.cache
+D:\Documents\EF\Labs\LabTwo\LabTwo\obj\Debug\LabTwo.Form1.resources
+D:\Documents\EF\Labs\LabTwo\LabTwo\obj\Debug\LabTwo.Properties.Resources.resources
+D:\Documents\EF\Labs\LabTwo\LabTwo\obj\Debug\LabTwo.csproj.GenerateResource.cache
+D:\Documents\EF\Labs\LabTwo\LabTwo\obj\Debug\LabTwo.csproj.CoreCompileInputs.cache
+D:\Documents\EF\Labs\LabTwo\LabTwo\obj\Debug\LabTwo.exe
+D:\Documents\EF\Labs\LabTwo\LabTwo\obj\Debug\LabTwo.pdb
+D:\Documents\EF\Labs\LabTwo\LabTwo\obj\Debug\LabTwo.Form2.resources
+D:\Documents\EF\Labs\LabTwo\LabTwo\obj\Debug\LabTwo.Form3.resources
